@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working @ [Mediafellows](https://github.com/mediafellows)
 - 🌱 I’m currently learning Golang
-- 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with [Cord](https://github.com/rojosinalma/cord)
 - ⚡ Fun fact: I'm pretty sure I was a Muppet in a previous life
 
