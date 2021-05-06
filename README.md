@@ -12,4 +12,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rojosinalma&theme=chartreuse-dark)
 
-(I mostly code in Ruby... don't believe the hype)
+Notes:
+
+- I mostly code in Ruby. Don't believe what the box claims 🙈
+- Most of my contribs are in private repos or enterprise accounts that don't share commits/pr/reviews data.
