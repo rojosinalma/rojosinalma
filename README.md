@@ -1,6 +1,6 @@
 ### Hi there, I'm Rojo 👋
 
-- 🔭  I’m currently working @ [FATMAP](https://github.com/FATMAP)
+- 🔭  I’m currently working @ [Hypofriend](https://github.com/hypofriend)
 - 🌱  I’m currently learning Golang
 - 🤔  I’m looking for help with [Cord](https://github.com/rojosinalma/cord)
 - ⚡ Fun fact: I'm pretty sure I was a Muppet in a previous life
