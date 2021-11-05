@@ -1,8 +1,9 @@
-### Hi there, I'm Rojo 👋
+### Hi there, I'm Rojo (people also call me Feña) 👋
 
-- 🔭  I’m currently working @ [Hypofriend](https://github.com/hypofriend)
-- 🌱  I’m currently learning Golang
-- 🤔  I’m looking for help with [Cord](https://github.com/rojosinalma/cord)
+- 🔭 I work @ [Hypofriend](https://github.com/hypofriend)
+- 🌱 I’m currently learning Golang
+- 🤔 I’m looking for help with [Cord](https://github.com/rojosinalma/cord)
+- 📜 Indentation: spaces (2)
 - ⚡ Fun fact: I'm pretty sure I was a Muppet in a previous life
 
 --- 
