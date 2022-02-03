@@ -1,6 +1,6 @@
 ### Hi there, I'm Rojo (people also call me Feña) 👋
 
-- 🔭 I work @ [Hypofriend](https://github.com/hypofriend)
+- 🔭 I work @ [Xepelin](https://github.com/xepelinapp)
 - 🌱 I’m currently learning Golang
 - 🤔 I’m looking for help with [Cord](https://github.com/rojosinalma/cord)
 - 📜 Indentation: spaces (2)
