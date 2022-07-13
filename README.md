@@ -14,6 +14,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rojosinalma&theme=chartreuse-dark)
 
+![](https://github-profile-trophy.vercel.app/?username=rojosinalma&theme=monokai&column=4&no-frame=true&no-bg=true)
+
 Notes:
 
 - I mostly code in Ruby. Don't believe what the box claims 🙈
