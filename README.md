@@ -1,9 +1,9 @@
 ### Hi there, I'm Rojo (people also call me Feña) 👋
 
+- 🔭 I work @ [FRI:DAY](http://friday.de)
 - 🌱 I’m currently learning Golang
 - 🤔 I’m looking for help with [Cord](https://github.com/rojosinalma/cord)
 - 📜 Indentation: spaces (2)
-- ⚡ Fun fact: I'm pretty sure I was a Muppet in a previous life
 
 --- 
 
