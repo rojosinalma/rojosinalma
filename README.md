@@ -1,11 +1,23 @@
-### Hi there, I'm Rojo (people also call me Feña) 👋
+### Hi there 👋
 
-- 🌱 I’m currently learning Golang
-- 🤔 I’m looking for help with [Cord](https://github.com/rojosinalma/cord)
-- 📜 Indentation: spaces (2)
+I'm Fernando, but people also call me Feña or Rojo (cause I'm a ginger)
+
+**Some stuff about me:**
+- I'm an SRE, Platform Engineer, Web Developer and many other things
+- I mostly use Ruby and Python
+- But I’m also learning Golang
+- I'm a gamer, live music enjoyer and bass player 
+
+**Some projects I enjoy:**
+- Chat bots, chatops and system automation
+- Backend applications using Ruby and Python
+- CLI tools in Go
+- Kubernetes Operators
 
 --- 
 
+**Some useful stats:**
+
 ![](https://komarev.com/ghpvc/?username=rojosinalma&color=red)
 
-![Rojo github stats](https://github-readme-stats.vercel.app/api?username=rojosinalma&theme=chartreuse-dark&count_private=true&show_icons=true&include_all_commits=true)
+![Rojo github stats](https://github-readme-stats.vercel.app/api?username=rojosinalma&theme=dracula&count_private=true&show_icons=true&include_all_commits=true)
