@@ -9,7 +9,7 @@ I'm Fernando, but people also call me Feña or Rojo (cause I'm a ginger)
 - I'm a gamer, live music enjoyer and bass player 
 
 **Some projects I enjoy:**
-- Chat bots, chatops and system automation
+- Chat, bots and other automations
 - Backend applications using Ruby and Python
 - CLI tools in Go
 - Kubernetes Operators
