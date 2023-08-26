@@ -15,8 +15,4 @@ I'm Fernando, but people also call me Feña or Rojo (rojo means red... cause I'm
 
 --- 
 
-**Some useful stats:**
-
-![](https://komarev.com/ghpvc/?username=rojosinalma&color=red)
-
 ![Rojo github stats](https://github-readme-stats.vercel.app/api?username=rojosinalma&theme=dracula&count_private=true&show_icons=true&include_all_commits=true)
