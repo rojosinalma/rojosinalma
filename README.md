@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Fernando, but people also call me Feña or Rojo (rojo means red and I'm a ginger)
+I'm Fernando, but people also call me Feña or Rojo (rojo means red... cause I'm a ginger)
 
 **Some stuff about me:**
 - I'm an SRE, Platform Engineer, Web Developer and many other things
