@@ -3,7 +3,7 @@
 I'm Fernando, but people also call me Feña or Rojo (rojo means red... cause I'm a ginger)
 
 **Some stuff about me:**
-- I'm an SRE, Platform Engineer, Web Developer and many other things
+- I'm an SRE, Platform Engineer, Web Developer and many other things in the DevOps spectrum
 - I mostly use Ruby and Python
 - But I’m also learning Golang
 - I'm a gamer, live music enjoyer and bass player 
