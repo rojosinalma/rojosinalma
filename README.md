@@ -3,7 +3,7 @@
 I'm Fernando, but people also call me Feña or Rojo (rojo means red... cause I'm a ginger)
 
 **Some stuff about me:**
-- I like AIs, SRE, Platform Engineering, Cloud Architecture and self-hosted Infrastructure, Security, and many other topics in the DevOps spectrum
+- I like AIs, SRE, Platform Engineering, Security, Cloud Architecture, self-hosted Infrastructure, and many other topics in the DevOps spectrum
 - I also like coding!, mostly with Ruby and Python
 - But I’m also learning Golang
 - I'm also a gamer, live music enjoyer and bass player 
