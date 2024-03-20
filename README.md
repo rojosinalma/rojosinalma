@@ -12,5 +12,4 @@ I'm Fernando, but people also call me Feña or Rojo.
 - AI assistants, CLI tools, Bots, System and other different types of automation
 - Backend applications, APIs and interacting with the internet in different ways
 - Playing around with self-hosted apps in my Homelab
-- Kubernetes Operators and other tools for the CNCF ecosystem
 - Anything Open Source (Specially if I can contribute :D)
