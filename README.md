@@ -9,6 +9,6 @@ I'm Fernando, but people also call me Feña or Rojo.
 
 **Some projects I enjoy:**
 - AI assistants, CLI tools, Bots, System and other different types of automation
-- Backend applications, APIs and creating tools using Ruby and Python
+- Backend applications, APIs and making other web tools using Ruby and Python
 - Kubernetes Operators and other tools for the CNCF ecosystem
 - Anything Open Source
