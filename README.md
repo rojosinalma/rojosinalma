@@ -9,7 +9,8 @@ I'm Fernando, but people also call me Feña or Rojo (Red in Spanish).
 - I have many hobbies like building PCs, playing Bass, electronics, tabletop games, D&D, videogames and a lot more... I try to put my adhd to work.
 
 🤓 **Some tech-related projects I enjoy:**
-- AI RAG/Multimodal/MCPs, building and using CLI tools, building chat bots, system automation and other stuff that you can do without browsers.
+- Multimodal AI, RAG, GenAI and MCPs
+- Building and using CLI tools, bots for different automations, system automation and other stuff that you can do without browsers.
 - Backend applications, APIs, IoT and interacting with the internet in different ways
 - Playing around with new stuff in my Homelab
 - Anything Open Source (specially if I can contribute to it :D)
