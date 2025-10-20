@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm Fernando, but people also call me Feña or Rojo.
+I'm Fernando, but people also call me Feña or Rojo (Red in Spanish).
 
 ✔️ **Some stuff about me:**
 - I'm interested in DevOps, Platform Engineering, Cloud Architecture, self-hosted infrastructure, SRE, Security, and many other topics in tech.
