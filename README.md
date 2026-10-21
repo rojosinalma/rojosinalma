@@ -4,7 +4,7 @@ I'm Fernando, but people also call me Feña or Rojo.
 
 ✔️ **Some stuff about me:**
 - I'm interested in DevOps, Platform Engineering, Cloud Architecture, self-hosted infrastructure, SRE, Security, and many other topics in tech.
-- I code mostly in Ruby and Python (yay for interpreted langs), but I also do JS in Golang if that matters to you.
+- I code mostly in Ruby and Python (yay for interpreted langs), but I also do JS and Golang if that matters to you.
 - I like orchestration through Kubernetes, but I also like to stay on the ground and maintain my own infra with simple tools.
 - I have many hobbies like building PCs, playing Bass, electronics, tabletop games, D&D, videogames and a lot more... 
 
