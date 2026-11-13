@@ -12,6 +12,6 @@ I'm Fernando, but people also call me Feña or Rojo.
 🤓 **Some tech-related projects I enjoy:**
 - Maintaining my Homelab and testing new services, always improving, never fully satisfied.
 - Maintaining my Local AI setup, coding my own Harness/MCPs/Tools/Skills/Plugins/etc, the era of AI has definitely opened a whole can of worms to tinker with.
-- Building CLI tools/APIs/TUIs/ and anything useful from a shell.
+- Building CLI tools/APIs/TUIs/ and anything useful from a shell. POSIX is a must!
 - Anything I can automate, especially Bots!
-- System services/OS processes/Workflows and other low level stuff usable in Linux
+- System services/OS processes/Workflows and other low level stuff usable in *nix systems.
